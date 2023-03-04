@@ -5,3 +5,5 @@ Branch - Branchs are used to create the new feature to the software without affe
 commit and push - save your changes and store with a unique version - SHA value 
 Pull Request - Heart of the collabration. Create a PR when a new feature is developed with new branch.
 Merge Pull Request - Merge PR is adding that new feature to the main branch.
+Create a Repo 
+Fork repo - Forking a repository will allow you to make changes to another repository without affecting the original.
