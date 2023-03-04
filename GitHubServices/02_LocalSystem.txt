@@ -1,0 +1,3 @@
+GitHub CLI - you can install and control the github with command line tool
+GitHub Desktop - You can control with Destop app GUI
+Authentication - SSH and HTTPS 
