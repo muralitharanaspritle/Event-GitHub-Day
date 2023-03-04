@@ -1,0 +1,9 @@
+GitHub Flow - Defined steps to follow
+
+1. Create a branch - create a branch with meaning name
+2. Makes changes - makes any changes in the files
+3. Commit - Commiting with right message
+4. Make Pull Request - Make PR for review 
+5. Address the Review and commands
+6. Merge Pull Request - if all good in PR and then Merge to main
+7. Delete the branch
