@@ -1,0 +1,6 @@
+GitHub is the largest source code management platform in the global.
+Repository - used to organise a single project
+ReadME file - Which is very useful when its come to documentation
+Branch - Branchs are used to create the new feature to the software without affecting the main source code until you merge it.
+commit and push - save your changes and store with a unique version - SHA value 
+Pull Request - Heart of the collabration
