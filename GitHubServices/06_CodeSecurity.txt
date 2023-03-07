@@ -1,0 +1,9 @@
+Code security - secure and secrets the code
+Github advance security - enterprise account
+Security advisory - privately discuss, fix vulnerability
+Depandabot - create pull request if any vulnerability in dependancy
+code scanning - scan your code an detect the errors
+secret scanning - alert if your code contain token
+PARTER PATTERN like azure, google cloud, discord bot tokens
+parter alert and user alert
+CodeQL - CodeQL is the code analysis engine developed by GitHub to automate security checks
