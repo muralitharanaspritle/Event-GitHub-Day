@@ -1,0 +1,4 @@
+create a repo
+ReadMe file is file important - Documentation
+License metion - open source code
+Visbility

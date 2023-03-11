@@ -1,0 +1,12 @@
+Personal account
+Organization account
+Enterprise account
+Github Free, Pro and Team
+Enterprise Cloud and Server
+
+
+Auth types
+```````````
+Username & password with 2FA - Authentication
+Personal access token
+SSH
